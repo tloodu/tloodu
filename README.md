@@ -2,7 +2,7 @@
 
 I'm a Software Engineering Student at the University of Ottawa with previous experience as a Developer at PSPC, Ford and RBC.
 * 🏗️ Working with Java, Go, React and more!
-* 🏞️ Exploring Redwood.js
+* 🏞️ Exploring Redwood.js and Flutter
 
 ### ⚙️ Skills
 #### ✍️ Languages
