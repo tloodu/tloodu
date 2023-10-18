@@ -1,6 +1,6 @@
 ### :wave: Hi there!
 
-I'm a Software Engineering Student at the University of Ottawa with previous experience as a Developer at PSPC, Ford and RBC.
+I'm a Software Engineering Student at the University of Ottawa with previous experience as a Developer at PSPC, Ford, RBC and CIRA.
 * 🏗️ Working with Java, Go, React and more!
 * 🏞️ Exploring Redwood.js and Flutter
 
