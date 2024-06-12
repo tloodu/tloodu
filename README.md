@@ -1,4 +1,4 @@
-#### Hey there 👾
+### Hey there! 👾
 
 My name is Taj Loodu, and I'm a recent software engineering graduate from the University of Ottawa with a knack for full-stack, DevOps, and product engineering. I have previous experience as a developer at PSPC, Ford, RBC, and CIRA, and I'm currently looking for new graduate opportunities 👨‍💻.
 
